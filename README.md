@@ -20,3 +20,15 @@ sbt:helloscalajs> fastLinkJS
 sbt:helloscalajs> 
 
 ```
+
+```shell
+sbt:helloscalajs> reload
+[info] welcome to sbt 1.5.5 (AdoptOpenJDK Java 13.0.2)
+[info] loading global plugins from /Users/mahesh/.sbt/1.0/plugins
+[info] loading settings for project helloscalajs-build from plugins.sbt ...
+[info] loading project definition from /Users/mahesh/play/scalajs/helloscalajs/project
+[info] loading settings for project helloscalajs from build.sbt ...
+[info] set current project to helloscalajs (in build file:/Users/mahesh/play/scalajs/helloscalajs/)
+sbt:helloscalajs> 
+
+```
