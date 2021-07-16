@@ -32,3 +32,13 @@ sbt:helloscalajs> reload
 sbt:helloscalajs> 
 
 ```
+
+```shell
+sbt:helloscalajs> fastLinkJS
+[info] compiling 1 Scala source to /Users/mahesh/play/scalajs/helloscalajs/target/scala-2.13/classes ...
+[info] Fast optimizing /Users/mahesh/play/scalajs/helloscalajs/target/scala-2.13/helloscalajs-fastopt
+[success] Total time: 3 s, completed 16 Jul 2021, 5:51:40 pm
+sbt:helloscalajs> 
+
+```
+
